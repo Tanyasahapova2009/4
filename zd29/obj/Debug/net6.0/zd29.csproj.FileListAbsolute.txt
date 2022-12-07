@@ -1,0 +1,15 @@
+D:\Documents\Downloads\d42\4\zd29\bin\Debug\net6.0\zd29.exe
+D:\Documents\Downloads\d42\4\zd29\bin\Debug\net6.0\zd29.deps.json
+D:\Documents\Downloads\d42\4\zd29\bin\Debug\net6.0\zd29.runtimeconfig.json
+D:\Documents\Downloads\d42\4\zd29\bin\Debug\net6.0\zd29.dll
+D:\Documents\Downloads\d42\4\zd29\bin\Debug\net6.0\zd29.pdb
+D:\Documents\Downloads\d42\4\zd29\obj\Debug\net6.0\zd29.csproj.AssemblyReference.cache
+D:\Documents\Downloads\d42\4\zd29\obj\Debug\net6.0\zd29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Downloads\d42\4\zd29\obj\Debug\net6.0\zd29.AssemblyInfoInputs.cache
+D:\Documents\Downloads\d42\4\zd29\obj\Debug\net6.0\zd29.AssemblyInfo.cs
+D:\Documents\Downloads\d42\4\zd29\obj\Debug\net6.0\zd29.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\d42\4\zd29\obj\Debug\net6.0\zd29.dll
+D:\Documents\Downloads\d42\4\zd29\obj\Debug\net6.0\refint\zd29.dll
+D:\Documents\Downloads\d42\4\zd29\obj\Debug\net6.0\zd29.pdb
+D:\Documents\Downloads\d42\4\zd29\obj\Debug\net6.0\zd29.genruntimeconfig.cache
+D:\Documents\Downloads\d42\4\zd29\obj\Debug\net6.0\ref\zd29.dll
